@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+HR_dummy_data/output/.staging_*/
+.pytest_cache/
